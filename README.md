@@ -10,3 +10,5 @@ Complete source code is available at: https://github.com/vbodurov/frog-fu-game
 Please like our Facebook page: https://www.facebook.com/YouVisio
 
 Subscribe to Twitter: https://twitter.com/YouVisio
+
+Visit my blog: http://blog.bodurov.com/Frog-Fu-Open-Source-iOS-Game/
